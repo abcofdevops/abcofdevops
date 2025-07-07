@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm passionate about DevOps, automation, infrastru
   Handy shell scripts for automation and system tasks.
 
 - **[mcp-project](https://github.com/abcofdevops/mcp-project):**  
-  (Project description goes here – update with a summary of this repo!)
+  (Model Context Protocol(MCP) Usage and components and Realtime MCP project using github-mcp-server)
 
 - **[github](https://github.com/abcofdevops/github):**  
-  (Project description goes here – update with a summary of this repo!)
+  (Some basic knowledge on creating and committing to repositories, README rules and How to create the Personal Access Token (PAT))
 
 - **[aiops](https://github.com/abcofdevops/aiops):**  
   Exploring the intersection of Artificial Intelligence and IT Operations.
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about DevOps, automation, infrastru
   Python scripts, utilities, and learning resources.
 
 - **[kubernetes](https://github.com/abcofdevops/kubernetes):**  
-  Kubernetes manifests, best practices, and how-tos for cloud native deployments.
+  Kubernetes manifests, best practices, and how-tos for cloud-native deployments.
 
 - **[vagrant](https://github.com/abcofdevops/vagrant):**  
   Automated development environments using Vagrant.
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about DevOps, automation, infrastru
 ## 📫 Let’s Connect
 
 - [GitHub](https://github.com/abcofdevops)
-- (Add your LinkedIn, Twitter, or personal website if you’d like!)
+- [Mail](mailto:abcofdevops@gmail.com)
 
 ---
 
