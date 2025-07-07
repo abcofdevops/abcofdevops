@@ -4,8 +4,8 @@
 ### *Mastering the Art of DevOps, One Repository at a Time*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abcofdevops&color=blue&style=for-the-badge)](https://github.com/abcofdevops)
-[![GitHub followers](https://img.shields.io/github/followers/abcofdevops?logo=github&style=for-the-badge&color=0969da)](https://github.com/abcofdevops)
-[![GitHub stars](https://img.shields.io/github/stars/abcofdevops?logo=github&style=for-the-badge&color=0969da)](https://github.com/abcofdevops)
+[![GitHub followers](https://img.shields.io/github/followers/abcofdevops?logo=github&style=for-the-badge&color=blue)](https://github.com/abcofdevops)
+[![GitHub stars](https://img.shields.io/github/stars/abcofdevops?logo=github&style=for-the-badge&color=blue)](https://github.com/abcofdevops)
 
 </div>
 
