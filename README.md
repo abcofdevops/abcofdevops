@@ -164,7 +164,7 @@ I believe in the power of automation, infrastructure as code, and continuous del
 
 ## 🎯 DevOps Expertise Areas
 
-<div align="center">
+<div align="LEFT">
 
 ### 🏗️ **Infrastructure & Cloud**
 *Building scalable, resilient systems on modern cloud platforms*
@@ -200,7 +200,7 @@ I believe in the power of automation, infrastructure as code, and continuous del
 - Multi-machine environments for testing
 - Development workflow automation
 
-### 📋 [Project Management](https://github.com/abcofdevops/jira-scrum)
+### 📋 [Project Management](https://github.com/abcofdevops/github)
 - **Jira & Scrum Mastery** - Agile project management
 - Workflow automation and integration
 - Best practices for DevOps teams
